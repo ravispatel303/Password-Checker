@@ -1,3 +1,6 @@
+#   command: python checkmypass.py [password1] [password2] ..
+#   eg python checkmypass.py password123 pass123
+
 import requests
 import hashlib
 import sys
